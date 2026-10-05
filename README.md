@@ -1,4 +1,4 @@
-# **⛏️ NeylMC ModPack**
+# **⛏️ NeylCraft ModPack**
 
 _A modpack optimized to run on laptops.\
 Focused on an immersive multiplayer experience._
